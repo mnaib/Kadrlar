@@ -1,4 +1,3 @@
-KadrFHN
-=======
+ 
 
 Kadrlar Mobile
